@@ -1,0 +1,1 @@
+nepali-nimbuzz-bot
